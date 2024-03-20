@@ -7,10 +7,10 @@ int Punto3() {
     string cadena1;
     string cadena2;
 
-    cout << "Por favor ingrese una cadena de caracteres: " << endl;
+    cout << "Por favor ingrese una cadena de caracteres: ";
     cin >> cadena1;
 
-    cout << "Por favor ingrese otra cadena de caracteres: " << endl;
+    cout << "Por favor ingrese otra cadena de caracteres: ";
     cin >> cadena2;
 
     bool sonIguales = compararCadenas(cadena1, cadena2);
