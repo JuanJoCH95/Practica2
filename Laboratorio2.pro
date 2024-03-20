@@ -6,6 +6,10 @@ CONFIG -= qt
 SOURCES += \
         Punto1.cpp \
         Punto10.cpp \
+        Punto11.cpp \
+        Punto12.cpp \
+        Punto13.cpp \
+        Punto14.cpp \
         Punto2.cpp \
         Punto3.cpp \
         Punto4.cpp \
